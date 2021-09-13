@@ -1,0 +1,26 @@
+{
+  "name": "repositorio_proyecto",
+  "version": "1.0.0",
+  "description": "**Este es un proyecto grupal, de estrategias pedagógicas apoyadas en la TIC'S.**",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielTuiran/Repositorio_Proyecto.git"
+  },
+  "keywords": [],
+  "author": "Mateo, Daniel y Oscar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielTuiran/Repositorio_Proyecto/issues"
+  },
+  "homepage": "https://github.com/DanielTuiran/Repositorio_Proyecto#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
